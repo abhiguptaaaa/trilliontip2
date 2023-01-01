@@ -857,7 +857,8 @@ span {
 }
 
 .faq-section .accordion-item button {
-    position: relative;
+    position: center;
+    justify-content: center;
     padding: 18px 25px;
     font-size: 18px;
     font-weight: 700;
