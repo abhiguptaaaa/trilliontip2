@@ -865,7 +865,7 @@ span {
 }
 
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../img/accordion.svg);
+    background-image: url(accordion.svg);
 }
 
 .accordion-button:focus {
