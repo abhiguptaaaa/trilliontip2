@@ -850,6 +850,7 @@ span {
 
 .faq-section .accordion-item {
     margin-bottom: 20px;
+    justify-content: center;
     border: none;
     border-radius: 5px;
     box-shadow: 0 3px 6px rgba(142, 142, 142, .16);
